@@ -62,7 +62,6 @@ p {
     width: 100%;
     max-width: 50rem;
     margin: 0 auto;
-    
 }
 
 .grid-figureone {
@@ -81,6 +80,7 @@ p {
     width: 100%;
     margin: 0 auto;
     padding-right: 5em;
+
 }
 
 .grid-figurethree {
@@ -194,7 +194,7 @@ a:active {
 
    }
 }
-@media screen and (min-width: 67rem) {
+@media screen and (min-width: 72rem) {
     .fulleditorial{
        columns: 2;
 
